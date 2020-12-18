@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mycala.github.io/honorary/dr.-reen-wu/</loc>
+    <loc>https://mycala.org/honorary/dr.-reen-wu/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/</loc>
+    <loc>https://mycala.org/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/talk/example/</loc>
+    <loc>https://mycala.org/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/talk/</loc>
+    <loc>https://mycala.org/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/slides/</loc>
+    <loc>https://mycala.org/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/slides/example/</loc>
+    <loc>https://mycala.org/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/tag/deep-learning/</loc>
+    <loc>https://mycala.org/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/project/example/</loc>
+    <loc>https://mycala.org/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/project/</loc>
+    <loc>https://mycala.org/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/tags/</loc>
+    <loc>https://mycala.org/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,32 +58,17 @@
   </url>
   
   <url>
-    <loc>https://mycala.github.io/publication-type/1/</loc>
+    <loc>https://mycala.org/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/publication/example/</loc>
+    <loc>https://mycala.org/publication/example/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/authors/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycala.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mycala.github.io/publication/</loc>
+    <loc>https://mycala.org/authors/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,40 +78,31 @@
   </url>
   
   <url>
-    <loc>https://mycala.github.io/honorary/</loc>
+    <loc>https://mycala.org/publication_types/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mycala.org/publication/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mycala.org/honorary/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/bylaws/</loc>
+    <loc>https://mycala.org/bylaws/</loc>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc></loc>
-  </url>
-  
-  <url>
-    <loc></loc>
-  </url>
-  
-  <url>
-    <loc>https://mycala.github.io/donation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycala.github.io/board/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycala.github.io/event/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mycala.github.io/missions/</loc>
+    <loc>https://mycala.org/categories/</loc>
   </url>
   
   <url>
@@ -138,11 +114,19 @@
   </url>
   
   <url>
-    <loc>https://mycala.github.io/join/</loc>
+    <loc>https://mycala.org/donation/</loc>
   </url>
   
   <url>
-    <loc>https://mycala.github.io/members/</loc>
+    <loc>https://mycala.org/board/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mycala.org/event/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mycala.org/missions/</loc>
   </url>
   
   <url>
@@ -154,7 +138,11 @@
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://mycala.org/join/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mycala.org/members/</loc>
   </url>
   
   <url>
@@ -182,7 +170,19 @@
   </url>
   
   <url>
-    <loc>https://mycala.github.io/authors/zhiyu-dai/</loc>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc>https://mycala.org/authors/zhiyu-dai/</loc>
   </url>
   
 </urlset>

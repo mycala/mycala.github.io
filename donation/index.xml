@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Donations | CALA</title>
-    <link>https://mycala.github.io/donation/</link>
-      <atom:link href="https://mycala.github.io/donation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mycala.org/donation/</link>
+      <atom:link href="https://mycala.org/donation/index.xml" rel="self" type="application/rss+xml" />
     <description>Donations</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://mycala.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mycala.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Donations</title>
-      <link>https://mycala.github.io/donation/</link>
+      <link>https://mycala.org/donation/</link>
     </image>
     
   </channel>
