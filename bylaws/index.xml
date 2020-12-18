@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>By-Laws | CALA</title>
-    <link>https://mycala.org/bylaws/</link>
-      <atom:link href="https://mycala.org/bylaws/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.mycala.org/bylaws/</link>
+      <atom:link href="https://www.mycala.org/bylaws/index.xml" rel="self" type="application/rss+xml" />
     <description>By-Laws</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://mycala.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.mycala.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>By-Laws</title>
-      <link>https://mycala.org/bylaws/</link>
+      <link>https://www.mycala.org/bylaws/</link>
     </image>
     
   </channel>
